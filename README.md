@@ -2,7 +2,7 @@
 Comece fazendo um fork do repositório para a sua conta do GitHub. Isso cria uma cópia pessoal que você pode modificar.
 
 2. Clone o Repositório
-Clone o repositório forkado para o seu computador local para começar a trabalhar no código. git clone https://github.com/jotinha280404/CodigosLendarios.git
+Clone o repositório forkado para o seu computador local para começar a trabalhar no código. git clone https://github.com/jotinha280404/AgencIA---Enterprise.git
 
 3. Crie uma Nova Branch
 Para manter o repositório organizado, crie uma nova branch para cada conjunto de alterações que você pretende fazer.
